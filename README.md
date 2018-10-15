@@ -10,4 +10,4 @@ The project contains 4 main files with the following activity:
 4. The final presentation
 
 
-Note: As the final dataset is quite big (~200k rows), I've commented all heavy-charting.
+Note: As the final dataset is quite big (~200k rows) to improve reproducibility I've commented all heavy-charting for EDA section.
